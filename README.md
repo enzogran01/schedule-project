@@ -38,7 +38,7 @@
 ## 🚀 Installing Schedule-Project
 
 1. Click `code` then `download ZIP` to download the entire project
-2. Open `(Windows: Powershell; Mac: Zsh; Linux: Bash)` in the project folder
+2. Open `command line` in the project folder
 3. Run the command `npm i` to install all the dependencies. This will create a node_modules folder
 <br>
 
@@ -49,7 +49,7 @@
 
 1. Create a `.env` folder in the projects folder
 2. Write: CONNECTIONSTRING=`<your connection string>` inside.
-3. Run `npm start` in `(Windows: Powershell; Mac: Zsh; Linux: Bash)` in the directory to start the server.
+3. Run `npm start` in `command line` in the directory to start the server.
 4. Open `localhost:3000` in your browser, it should render the index page.
 <br>
 
