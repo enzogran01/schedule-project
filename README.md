@@ -53,7 +53,7 @@
 4. Open `localhost:3000` in your browser, it should render the index page.
 <br>
 
-### Adjustments
+## Adjustments
 
 This project is still in development, all updates are aiming to solve these problems:
 
