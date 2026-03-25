@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/enzogran01/schedule-project?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/enzogran01/schedule-project?style=for-the-badge)
 
-<img src="assets/schedule.gif" />
+<img src="readme-assets/schedule.gif" />
 
 > Register and manage your own list of contacts
 <br>
