@@ -49,7 +49,7 @@
 
 1. Create a `.env` folder in the projects folder
 2. Write: CONNECTIONSTRING=`<your connection string>` inside.
-3. Run `npm start` in powershell in the directory to start the server.
+3. Run `npm start` in `(Windows: Powershell; Mac: Zsh; Linux: Bash)` in the directory to start the server.
 4. Open `localhost:3000` in your browser, it should render the index page.
 <br>
 
