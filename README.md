@@ -62,7 +62,7 @@ This project is still in development, all updates are aiming to solve these prob
 
 ## 😄 Contribute
 
-Want to be part of this project? Click [HERE](CONTRIBUTING.md) to read how to contribute.
+Want to be part of this project? Click [HERE](https://contributing.md/) to read how to contribute.
 
 ## 📝 License
 
