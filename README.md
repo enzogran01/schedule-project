@@ -57,7 +57,7 @@
 
 This project is still in development, all updates are aiming to solve these problems:
 
-- [ ] Deploy in a cloud platform
+- [X] Deploy in a cloud platform
 <br>
 
 ## 😄 Contribute
